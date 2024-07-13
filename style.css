@@ -16,6 +16,11 @@ body{
     word-wrap: break-word;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
 .header.content {
     display: flex;
     justify-content: space-between;
